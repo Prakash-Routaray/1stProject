@@ -1,0 +1,25 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 22 Sep 2023 23:11:48 at https://templates.hibootstrap.com/ecour/default/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://templates.hibootstrap.com/ecour/default/index.html -O1 "C:\Users\BAPI SWAIN\OneDrive\Desktop\College Project No.1\College Project" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:14:02	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/ecour/default/assets/css/images/ui-icons_444444_256x240.png (from https://templates.hibootstrap.com/ecour/default/assets/css/jquery-ui-min.css)
+23:14:02	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/ecour/default/assets/css/images/ui-icons_555555_256x240.png (from https://templates.hibootstrap.com/ecour/default/assets/css/jquery-ui-min.css)
+23:14:02	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/ecour/default/assets/css/images/ui-icons_ffffff_256x240.png (from https://templates.hibootstrap.com/ecour/default/assets/css/jquery-ui-min.css)
+23:14:02	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/ecour/default/assets/css/images/ui-icons_777620_256x240.png (from https://templates.hibootstrap.com/ecour/default/assets/css/jquery-ui-min.css)
+23:14:02	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/ecour/default/assets/css/images/ui-icons_cc0000_256x240.png (from https://templates.hibootstrap.com/ecour/default/assets/css/jquery-ui-min.css)
+23:14:02	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/ecour/default/assets/css/images/ui-icons_777777_256x240.png (from https://templates.hibootstrap.com/ecour/default/assets/css/jquery-ui-min.css)
+23:14:11	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/ecour/default/assets/img/breadcrumb/breadcrumb-6.jpg (from https://templates.hibootstrap.com/ecour/default/assets/scss/style.css)
+23:14:11	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/ecour/default/assets/img/hero/hero-2.jpg (from https://templates.hibootstrap.com/ecour/default/assets/scss/style.css)
+23:14:11	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/ecour/default/assets/img/about/donate-bg-2.jpg (from https://templates.hibootstrap.com/ecour/default/assets/scss/style.css)
+23:14:11	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/ecour/default/assets/img/testimonial/testimonial-bg-2.jpg (from https://templates.hibootstrap.com/ecour/default/assets/scss/style.css)
+23:14:11	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/ecour/default/become-volunteer.html (from https://templates.hibootstrap.com/ecour/default/index-2.html)
+23:14:11	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/ecour/default/event.html (from https://templates.hibootstrap.com/ecour/default/event-details.html)
+23:14:11	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/ecour/default/home-1.html (from https://templates.hibootstrap.com/ecour/default/404.html)
+23:14:11	Error: 	"Not Found" (404) at link https://templates.hibootstrap.com/ecour/default/product-details.html (from https://templates.hibootstrap.com/ecour/default/shop-left-sidebar.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 23 seconds : 197 links scanned, 182 files written (17130003 bytes overall) [12800209 bytes received at 89511 bytes/sec], 6843836 bytes transferred using HTTP compression in 87 files, ratio 34%, 65.6 requests per connection
+(14 errors, 0 warnings, 0 messages)
