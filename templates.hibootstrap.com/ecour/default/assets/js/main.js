@@ -6,10 +6,6 @@
     $(window).on('load', function(event) {
         $('.js-preloader').delay(50).fadeOut(50);
     });
-    /* -------------------------------------
-            Buy Now Button
-    -------------------------------------- */
-    $('body').append("<a href='https://themeforest.net/checkout/83946270/create_account?_ga=2.241992770.1760831447.1644976051-651307116.1644976051' class='buy-now-btn' target='_blank'><img src='assets/img/envato.png' alt='envato'/>Buy Now</a>"); 
 
     /* -------------------------------------
           Open Search box
