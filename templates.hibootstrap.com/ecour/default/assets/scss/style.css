@@ -2364,7 +2364,7 @@ textarea:-ms-input-placeholder {
 }
 
 .header-wrap .header-bottom {
-    padding: 15px 0;
+    padding: 0 0;
     background-color: #fff
 }
 
@@ -2373,7 +2373,7 @@ textarea:-ms-input-placeholder {
 }
 
 .header-wrap .header-bottom .header-menu-wrap .sidebar-menu {
-    margin-left: 20px;
+    margin-left: 350px;
     width: 30px
 }
 
