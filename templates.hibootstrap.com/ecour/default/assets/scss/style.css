@@ -2217,7 +2217,7 @@ textarea:-ms-input-placeholder {
 
 .header-wrap .header-top {
     background-color: #012245;
-    padding: 8px 0;
+    padding: 8px px;
     -webkit-transition: .3s;
     transition: .3s
 }
@@ -2373,7 +2373,7 @@ textarea:-ms-input-placeholder {
 }
 
 .header-wrap .header-bottom .header-menu-wrap .sidebar-menu {
-    margin-left: 350px;
+    margin-left: 55px;
     width: 30px
 }
 
